@@ -2,4 +2,7 @@ pwd
 ls
 ls -l
 cp 
-mv
+chown
+top
+last
+history
